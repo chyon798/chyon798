@@ -116,6 +116,8 @@ reflect on=think about
 strain n.压力 v.拉直
 
 
+-----
+
 [^interests]: n.利益，可数。
 
 [^interest]: n.兴趣（不可数）
